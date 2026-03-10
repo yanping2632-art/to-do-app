@@ -2,7 +2,7 @@
 // API CONFIGURATION
 // =========================================
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'http://localhost:30000';
 
 // =========================================
 // Protect Dashboard.html
