@@ -14,7 +14,7 @@ const app = express();
 app.use(express.json());
 app.use(
   cors({
-    origin: 'https://to-do-app-frontend-jet.vercel.app/', // This is to allow our frontend to communicate with our backend
+    origin: 'https://to-do-app-frontend-jet.vercel.app', // This is to allow our frontend to communicate with our backend
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
     credentials: true,
   }),
