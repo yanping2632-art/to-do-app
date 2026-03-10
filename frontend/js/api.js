@@ -2,7 +2,7 @@
 // API CONFIGURATION
 // =========================================
 
-const API_URL = 'http://localhost:30000';
+const API_URL = 'https://to-do-app-backend-k3cz.onrender.com';
 
 // =========================================
 // Protect Dashboard.html
